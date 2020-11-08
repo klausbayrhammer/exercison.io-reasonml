@@ -1,0 +1,12 @@
+*/.idea
+*/.exercism
+*/node_modules
+*/lib
+*/__tests__
+*/package.json
+*/package-lock.json
+*/.merlin
+*/README.md
+*/src/*.js
+*/src/*.rei
+*/bsconfig.json
